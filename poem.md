@@ -1,4 +1,4 @@
-# The City Rat And The Country Rat
+     # The City Rat And The Country Rat
 
      _A_ city rat, one night,
      Did, with a civil stoop,
@@ -35,6 +35,6 @@
      And would not swap, for pleasure
      So mix'd with fear and trembling.'
      
-     --*Jean de la Fontaine*
-     
+     **Jean de la Fontaine**
+    
      http://www.public-domain-poetry.com/jean-de-la-fontaine/city-rat-and-the-country-rat-21915
